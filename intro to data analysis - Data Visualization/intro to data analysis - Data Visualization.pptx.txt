@@ -1,0 +1,208 @@
+Data Visualization
+Yahya Rashwan
+Mechatronics engineering student 
+How can we communicate with others using visually appealing charts?
+
+Contents
+ Data Analytics process
+
+ Types of data in statistics
+	- Quantitative and Qualitative data 
+
+ Data Visualization : a brief introduction
+	- Why do we need to use data visualization?
+	- How can we use data visualization ?
+
+ Examples of charts used in data visualization
+
+ Notes when dealing with data visualization charts
+	- Characteristics of a good data visualization
+	- How can the charts be misleading?
+
+
+Data Analytics process
+
+Data analysis is a process of inspecting, cleaning, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
+What is Data Analysis?
+
+Data Analytics steps
+Step One: Ask The Right Questions.
+
+2. Step Two: Data Collection. 
+
+3. Step Three: Data Cleaning. 
+
+4. Step Four: Analyzing The Data. 
+
+5. Step Five: Interpreting The Results
+ 
+
+Types of data in Statistics
+
+ Refers to information about quantities of things .
+ deals with Numerical Data only.
+ Can be divided to two smaller subsets (Discrete and continuous data)
+
+Quantitative Data
+
+ Discrete data can take only certain values and can’t be more precise (Only particular values). 
+
+Examples : Number of students in a class, size of pair of shoes, number of wins in a season. 
+
+ Continuous data can take any value usually within certain limits and can be divided into finer and finer parts. 
+
+	Examples :  Weights, Heights, and temperatures.
+
+Qualitative (Categorical) Data
+ Are observed data that are placed into categories.
+
+Qualitative data is non-numeric information.
+
+Can be divided to two smaller subsets (Nominal, Ordinal and Binary data)
+
+
+Data Visualization
+
+It’s the graphic representation of data. 
+Effective way of communication when the data is numerical. 
+Can be considered as a branch of descriptive statistics. 
+What is data visualization? 
+
+
+To analyze and reason about data and evidence.
+ Helps in the decision-making process.
+ makes complex data accessible, understandable, and reasonable.
+ Communicates information clearly and effectively to users.
+ Plays an important role in the storytelling with data.
+Why data visualization is important ? 
+
+Where do we see data visualization?
+Business (Market Analysis)
+
+ Scientific research (Displaying results and findings)
+
+ Healthcare (vital signs tracking)
+
+ Navigation (Google Maps)
+
+ Sports (Performance Analysis)
+
+ News (Election's results visualization)
+
+
+
+Heart pulse rate monitor
+
+COVID-19 cases tracker
+
+
+Last US elections demographic map
+
+N’golo Kante heat map against Real Madrid in UCL 20/21 
+
+ Comparisons
+ Proportions 
+ Patterns
+ Relationships
+ Distribution 
+ Part-to-a-whole 
+ How things work 
+ Analyzing text
+Functions of data visualization charts
+
+Examples of charts used in data visualization
+
+
+ A way of summarizing a set of categorical data.
+used to compare things between different groups or to track changes over time.
+ Can be seen in many ways like : 
+ Multi-set bar chart
+ Radial bar chart 
+ Stacked bar chart 
+ Population chart
+Bar chart 
+
+Radial bar chart
+Multi-set bar chart 
+Population pyramid
+Stacked bar chart
+
+used to track changes over short and long periods of time. 
+ This is the most basic type of chart used in finance.
+  Can be seen in many ways like : 
+ Area graph
+ Stacked area graph 
+
+Line chart
+
+Can you spot the differences between the two graphs ? The data is the same for both graphs
+Area chart 
+Simple line chart
+
+
+  is a circular statistical graphic, which is divided into slices to illustrate numerical proportion.
+  very widely used in the business world and the mass media.
+ Can be seen in many ways like:
+ Dount chart
+Pie chart
+
+Dount Chart
+Simple pie chart
+
+ uses dots to represent values for two different numeric variables.
+
+ Scatter plots are used to observe relationships between variables.
+
+A correlation could be:
+ positive, meaning both variables move in the same direction
+negative, meaning that when one variable's value increases, the other variables' values decrease.
+
+Scatter plot
+
+
+A Bubble Chart is a multi-variable graph that is a cross between a Scatterplot and a Proportional Area Chart.
+ Bubble Charts are typically used to compare and show the relationships between categorized circles.
+Bubble chart 
+
+
+  a way to visualize multivariate data.  
+ They are used to plot one or more groups of values over multiple common variables. 
+ used when you want to display data across several unique dimensions
+Radar Plot 
+
+is a graphical representation of data where values are depicted by color. 
+Heat maps make it easy to visualize complex data and understand it immediately.
+ Can be used for tracking people and analyzing their shopping behavior.
+Heat Map
+
+is a type of diagram that represents a workflow or process. 
+ They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams.
+Flow chart 
+
+Word Clouds are visual representations of words that give greater prominence to words that appear more frequently.
+ Can be used in Natural Language processing (NLP) applications.
+Word Cloud 
+
+Map visualization is used to analyze and display the geographically related data and present it in the form of maps. 
+This kind of data expression is clearer and more intuitive. We can visually see the distribution or proportion of data in each region 
+Maps 
+
+
+
+How can the data visualization mislead you?
+
+Bad data visualization
+
+Good data visualization
+1. Same data , Different Y-axis
+
+2. Choosing the wrong graph
+
+3. Too complicated to understand
+
+4. Overloading the graph with data 
+
+5. Not clear information
+
+
+
